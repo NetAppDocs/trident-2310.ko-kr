@@ -68,11 +68,6 @@ link:https://docs.netapp.com/us-en/trident-2204/index.html["22.04"^]
  a| 
 link:https://docs.netapp.com/us-en/trident-2201/index.html["22.01"^]
 | -- | 2024년 1월 | 2025년 1월 
-
-
- a| 
-link:https://docs.netapp.com/us-en/trident-2110/index.html["21.10"^]
-| -- | -- | 2024년 10월 
 |===
 
 NOTE: 21.07 이전의 릴리스는 기존 문서 사이트로 리디렉션합니다.
